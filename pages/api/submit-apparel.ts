@@ -11,7 +11,7 @@ interface Submission {
   recommendation: string;
 }
 
-let apparelSubmissions: Submission[] = [];
+const apparelSubmissions: Submission[] = [];
 
 const log = (message: string, data?: any) => {
   console.log(`[${new Date().toISOString()}] ${message}`, data ? JSON.stringify(data, null, 2) : '');
