@@ -1,8 +1,8 @@
-# CirclePE Front-end Assignment
+# Apparel MVP Assignment
 
-Welcome to the CirclePE Assignment repository!
+Welcome to the Assignment repository!
 
-This project involves the implementation of various features for the circlepe platform, including home rental examples , payment checkout options. The goal is to create a seamless and efficient user experience while ensuring robust backend support.
+This project involves the implementation of various features for the apparel categorisation and recommendation based on the inputs. The goal is to create a seamless and efficient user experience while ensuring robust backend support.
 
 ## Table of Contents
 
@@ -15,32 +15,18 @@ This project involves the implementation of various features for the circlepe pl
 
 ## Project Overview
 
-The CirclePE Assignment is designed to simulate a mini version of the ReachInbox web-application. It includes:
-
-- **Home Page**: Users can get the examples images and details of home rentals available in gurgaon.
-- **Property Detail Page**: On clicking on property box , property details component get rendered with payment and selective period of living details.
-- **Custom Checkout Page**: A specialized Checkout ui with all necessary steps.
-- **Final Page**: Payment checkout.
+MVP (Minimum Viable Product) for a platform that allows users to submit information about their unused or worn-out apparel for proper disposal, donation, or recycling.
 
 ## LIVE PROJECT
 
-  - **Live link** : https://main--abhinaycircleperentals.netlify.app/
-
-  - ### Home Page
+  - ### Main Page
     ![Home Page](https://github.com/Abhinay8506/CirclePE-Home-Rental-Website/blob/main/src/assets/imagepro12.png)
-
-  - ### Property Details Page
-    ![Onebox Screen](https://github.com/Abhinay8506/CirclePE-Home-Rental-Website/blob/main/src/assets/imagepro2.png)
-
-  - ### Custom Checkout Page
-    ![Custom](https://github.com/Abhinay8506/CirclePE-Home-Rental-Website/blob/main/src/assets/imagepro3.png)
-
-  - ### Final Page
-    ![Final](https://github.com/Abhinay8506/CirclePE-Home-Rental-Website/blob/main/src/assets/imagepro4.png)
 
 ## Technology Stack
 
-- **Frontend**: HTML, CSS, JavaScript,React.js ,React-routers
+- **Frontend**: HTML, CSS, JavaScript,React.js ,Next.js,Typescript
+- **Backend**: Next.js API Routes (Node.js), UUID
+- **State Management**: React hooks (useState, useEffect)
 
 ## Installation
 
@@ -48,8 +34,8 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Abhinay8506/CirclePE-Home-Rental-Website.git
-   cd CirclePE-Home-Rental-Website
+   git clone https://github.com/Abhinay8506/Apparel-Recycle-fullstack.git
+   cd Apparel-Recycle-fullstack
 
 2. **Install dependencies**:
    ```bash
