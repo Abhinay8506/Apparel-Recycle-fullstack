@@ -20,7 +20,7 @@ MVP (Minimum Viable Product) for a platform that allows users to submit informat
 ## LIVE PROJECT
 
   - ### Main Page
-    ![Home Page](https://github.com/Abhinay8506/CirclePE-Home-Rental-Website/blob/main/src/assets/imagepro12.png)
+    ![Home Page](https://github.com/Abhinay8506/Apparel-Recycle-fullstack/blob/main/styles/apparel.png)
 
 ## Technology Stack
 
